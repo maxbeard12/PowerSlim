@@ -3,7 +3,7 @@
 !|script|
 |get|https://api.github.com/repos/konstantinvlasenko/powerslim/forks|
 
-!|Query:local|$get|
+!|subset Query:local|$get|
 |full_name|
 |skalitin/PowerSlim|
 |DylanLiu1/PowerSlim|
